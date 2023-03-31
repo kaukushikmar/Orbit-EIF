@@ -1,0 +1,22 @@
+{
+  "weth": {
+    "address": "0xCCa7d1416518D095E729904aAeA087dBA749A4dC",
+    "decimals": "18"
+  },
+  "wbtc": {
+    "address": "0xf4423F4152966eBb106261740da907662A3569C5",
+    "decimals": "8"
+  },
+  "dai": {
+    "address": "0x75Ab5AB1Eef154C0352Fc31D2428Cef80C7F8B33",
+    "decimals": "18"
+  },
+  "usdc": {
+    "address": "0x9FD21bE27A2B059a288229361E2fA632D8D2d074",
+    "decimals": "6"
+  },
+  "null": {
+    "address": "0x9FD21bE27A2B059a288229361E2fA632D8D2d074",
+    "decimals": "6"
+  }
+}
